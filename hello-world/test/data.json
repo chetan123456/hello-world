@@ -1,0 +1,102 @@
+{
+	"rooms": [
+		{
+			"room":"room15",
+			"people": 10
+		},
+		{
+			"room":"shop",
+			"people": 5
+		},
+		{
+			"room":"lounge",
+			"people": 20
+		},
+		{
+			"room":"room20",
+			"people": 8
+		},
+		{
+			"room":"roomab",
+			"people": 3
+		},
+		{
+			"room":"room50",
+			"people": 13
+		},
+		{
+			"room":"conferenceroom",
+			"people": 4
+		},
+		{
+			"room":"jparea",
+			"people": 11
+		},
+		{
+			"room":"401",
+			"people": 0
+		},
+		{
+			"room":"441",
+			"people": 7
+		},
+		{
+			"room":"446",
+			"people": 2
+		},
+		{
+			"room":"449",
+			"people": 0
+		},
+		{
+			"room":"441b",
+			"people": 1
+		},
+		{
+			"room":"451a",
+			"people": 0
+		},
+		{
+			"room":"444",
+			"people": 1
+		},
+		{
+			"room":"452",
+			"people": 0
+		},
+		{
+			"room":"453",
+			"people": 0
+		},
+		{
+			"room":"454",
+			"people": 1
+		},
+		{
+			"room":"455",
+			"people": 0
+		},
+		{
+			"room":"456",
+			"people": 1
+		},
+		{
+			"room":"er",
+			"people": 2
+		}
+	],
+	"exits": [
+		{
+			"exitno":1,
+			"safe": true
+		},
+		{
+			"exitno":2,
+			"safe": false
+		},
+		{
+			"exitno":3,
+			"safe": true
+		}
+	]
+}
